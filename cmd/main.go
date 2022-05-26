@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"github.com/GoogleCloudPlatform/functions-framework-go/funcframework"
-	"github.com/go-slack-app-on-gae-boilerplate"
+	"github.com/go-slack-app-on-cloud-functions-boilerplate"
 	"log"
 	"os"
 )

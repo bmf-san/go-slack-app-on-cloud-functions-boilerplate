@@ -1,4 +1,4 @@
-# go-slack-app-on-gae-boilerplate
+# go-slack-app-on-cloud-functions-boilerplate
 This is a slack app boilerplate built with go for Google app engine.
 
 # Get started
