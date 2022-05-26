@@ -1,8 +1,8 @@
 # go-slack-app-on-cloud-functions-boilerplate
-This is a slack app boilerplate built with go for Google app engine.
+This is a slack app boilerplate built with go for Cloud Functions.
 
 # Get started
-Before you started, you need to set up gcloud command, and able to use GAE.
+Before you started, you need to set up gcloud command, and able to use Cloud Functions.
 
 ## Slack app
 ### Create a new slack app
@@ -40,7 +40,4 @@ Slask says `Bob`.
 
 
 # References
-- [Google Cloud - Go on Google App Engine](https://cloud.google.com/appengine/docs/go)
-- [Google Cloud - App Engine pricing](https://cloud.google.com/appengine/pricing)
-- [www.serversus.work - Google App Engine(GAE)を無料枠で収めるための勘所](https://www.serversus.work/topics/p1uaj4jrv8b5x70hwe6p/)
 - [github.com - slack-go/slack](https://github.com/slack-go/slack)
