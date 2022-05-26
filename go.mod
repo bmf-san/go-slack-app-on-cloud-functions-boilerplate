@@ -1,4 +1,4 @@
-module github.com/go-slack-app-on-gae-boilerplate
+module github.com/go-slack-app-on-cloud-functions-boilerplate
 
 go 1.16
 
